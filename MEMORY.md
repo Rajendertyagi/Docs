@@ -1,1 +1,0 @@
-- project_browser.md: Initial project scope and stack definition.
